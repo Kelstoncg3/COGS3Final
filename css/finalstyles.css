@@ -1,0 +1,92 @@
+#navbarstuff {
+    background-color: #2D3032;
+}
+#about {
+    background-color: #2D3032;
+}
+.container-fluid {
+    padding: 3% 15%;
+}
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: #ffff;
+}
+h2 {
+    color: #2D3032;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.5;
+}
+h3 {
+    font-family: 'Domine', sans-serif;
+}
+h5 {
+    color:#9615DB;
+    text-align: center;
+}
+p {
+    padding: 1.5rem 0 0 0;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.5rem;
+    color: white;
+}
+.navbar {
+    padding: 0 0 4.5rem;
+}
+.navbar-brand {
+    font-family: 'Domine';
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.navbar-item {
+    padding: 0 18px;
+}
+.nav-link {
+    font-family: 'Domine', sans-serif;
+    font-size: 1.2rem;
+}
+.resume-button {
+    background-color: #2D3032;
+    color: #9615DB;
+    margin: 5% 3% 5% 0;
+}
+#workexamples {
+    text-align: center;
+    background-color: #D2d3d3;
+}
+.carousel-item {
+    padding: 7% 15%;
+}
+.work-image {
+    width: 70%;
+    margin: 20px;
+}
+.work-image2 {
+    width: 80%;
+    margin: 20px;
+}
+#contact {
+    background-color: #2D3032;
+    color: #ffff;
+    padding: 7% 15%;
+    text-align: center;
+}
+.contact-heading {
+    font-family: 'Domine';
+    font-size: 2.5rem;
+    line-height: 1.5;
+}
+a:link {
+    color:#9615DB;
+}
+a:visited {
+    color: #9615DB;
+}
+a:active {
+    color: #9615DB;
+}
+a:hover {
+    color: #555759;
+}
